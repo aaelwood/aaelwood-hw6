@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Simple Page</title>
+    </head>
+    <body>
+        <h1>Welcome to My Simple Page</h1>
+        <p>This is a simple body text to display content.</p>
+    </body>
+</html>
